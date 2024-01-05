@@ -5,8 +5,8 @@ plugins = dict(root="plugins")
 
 app = Client(
     "my_account",  # نام نشانگر برای نمونه کلاینت شما
-    api_id='22853762',  # جایگزین با api_id واقعی شما
-    api_hash='847fb74edc5eb0e8c901cea8830eff80',  # جایگزین با api_hash واقعی شما
+    api_id='0000000',  # جایگزین با api_id واقعی شما
+    api_hash='0000000',  # جایگزین با api_hash واقعی شما
     plugins=plugins  # پوشه پلاگین‌ها
 )
 
